@@ -6,5 +6,6 @@
 4.  Run `npm i` in order to install dependencies and clean the git repo.<br />
 5.  Run `npm i -g json-server` to install the server to be able to run the mock backend <br />
 6.  Run `json-server --watch db.json --port 3001` - This will start the mock backend at `http://localhost:3001` <br />
-7.  At this point you can run `npm start` to see the example app at `http://localhost:3000`._
-8.  Run `npm run clean` to delete the example app.
+7.  At this point you can run `npm start` to see the app at `http://localhost:3000`._
+8.  To test the application, run `npm run test`;
+9.  Run `npm run clean` to delete the app.
