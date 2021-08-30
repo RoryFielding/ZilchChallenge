@@ -3,7 +3,7 @@ import { render } from 'react-testing-library';
 
 import Container from '../Container';
 
-describe('<Cards />', () => {
+describe('<Container />', () => {
   it('should render an <div> tag', () => {
     const {
       container: { firstChild },
