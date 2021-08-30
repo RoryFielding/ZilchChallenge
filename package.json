@@ -4,7 +4,7 @@
   "description": "An application to select a retailer and navigate to their page.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/react-boilerplate/react-boilerplate.git"
+    "url": "git://github.com/RoryFielding/ZilchChallenge.git"
   },
   "engines": {
     "npm": ">=5",
