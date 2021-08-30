@@ -1,0 +1,85 @@
+{
+    "retailers": [
+        {
+            "id": 1,
+            "title":  "Amazon",
+            "searchName":  "amazon",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+            "description": "Amazon.com is a vast Internet-based enterprise that sells books, music, movies, housewares, electronics, toys, and many other goods, either directly or as the middleman between other retailers and Amazon.com’s millions of customers. Its Web services business includes renting data storage and computing resources, so-called “cloud computing,” over the Internet. Its considerable online presence is such that, in 2012, 1 percent of all Internet traffic in North America traveled in and out of Amazon.com data centres. The company also makes the market-leading Kindle e-book readers. Its promotion of these devices has led to dramatic growth in e-book publishing and turned Amazon.com into a major disruptive force in the book-publishing market.",
+            "shortDescription": "A vast internet-based enterprise.",
+            "url": "https://amazon.com"
+        },
+        {
+            "id": 2,
+            "title":  "Aldi",
+            "searchName":  "aldi",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Aldi_Sud_logo.svg",
+            "shortDescription": "A discount supermarket chain.",
+            "description": "Aldi (stylized as ALDI) is the common brand of two German family-owned discount supermarket chains with over 10,000 stores in 20 countries and an estimated combined turnover of more than €50 billion. The chain was founded by brothers Karl and Theo Albrecht in 1946 when they took over their mother's store in Essen. The business was split into two separate groups in 1960, that later became Aldi Nord, headquartered in Essen, and Aldi Süd, headquartered in Mülheim.",
+            "url": "https://aldi.com/"
+        },
+        {
+            "id": 3,
+            "title":  "Apple",
+            "searchName":  "apple",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg",
+            "shortDescription": "A multinational technology company.",
+            "description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue (totaling $274.5 billion in 2020) and, since January 2021, the world's most valuable company. As of 2021, Apple is the world's fourth-largest PC vendor by unit sales, and fourth-largest smartphone manufacturer. It is one of the Big Five American information technology companies, along with Amazon, Google, Microsoft, and Facebook. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976 to develop and sell Wozniak's Apple I personal computer. It was incorporated by Jobs and Wozniak as Apple Computer, Inc. in 1977, and sales of its computers, including the Apple II, grew quickly. They went public in 1980 to instant financial success. Over the next few years, Apple shipped new computers featuring innovative graphical user interfaces, such as the original Macintosh, announced with the critically acclaimed advert 1984. However, the high price of its products and limited application library caused problems, as did power struggles between executives. In 1985, Wozniak departed Apple amicably, while Jobs resigned to found NeXT, taking some Apple co-workers with him.",
+            "url": "https://www.apple.com"
+        },
+        {
+            "id": 4,
+            "title":  "IKEA",
+            "searchName":  "ikea",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ikea_logo.svg",
+            "shortDescription": "A ready-to-assemble furniture conglomerate.",
+            "description": "IKEA (Swedish: [ɪˈkêːa]) is a conglomerate that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services. Founded in Sweden in 1943 by 17-year-old Ingvar Kamprad, IKEA has been the world's largest furniture retailer since 2008. The brand used by the group is an acronym that consists of the founder's initials, and those of Elmtaryd, the family farm where he was born, and the nearby village Agunnaryd (his hometown in Småland, southern Sweden). The group is known for its modernist designs for various types of appliances and furniture, and its interior design work is often associated with an eco-friendly simplicity. In addition, the firm is known for its attention to cost control, operational details, and continuous product development that has allowed IKEA to lower its prices by an average of two to three percent.",
+            "url": "https://www.ikea.com"
+        },
+        {
+            "id": 5,
+            "title":  "Ebay",
+            "searchName":  "ebay",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/EBay_logo.svg",
+            "shortDescription": "A multinational e-commerce corporation.",
+            "description": "eBay Inc. (/ˈiːbeɪ/ EE-bay) is an American multinational e-commerce corporation based in San Jose, California, that facilitates consumer-to-consumer and business-to-consumer sales through its website. eBay was founded by Pierre Omidyar in 1995, and became a notable success story of the dot-com bubble. eBay is a multibillion-dollar business with operations in about 32 countries, as of 2019. The company manages the eBay website, an online auction and shopping website in which people and businesses buy and sell a wide variety of goods and services worldwide. The website is free to use for buyers, but sellers are charged fees for listing items after a limited number of free listings, and again when those items are sold.",
+            "url": "http://www.ebay.com"
+        },
+        {
+            "id": 6,
+            "title":  "Tesco",
+            "searchName":  "tesco",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/Tesco_Logo.svg",
+            "shortDescription": "A British multinational groceries and general merchanide retailer.",
+            "description": "Tesco plc (/ˈtɛs.koʊ/) is a British multinational groceries and general merchandise retailer headquartered in Welwyn Garden City, England. It is the third-largest retailer in the world measured by gross revenues and the ninth-largest in the world measured by revenues. It has shops in five countries across Europe, and is the market leader of groceries in the UK (where it has a market share of around 28.4%). Tesco was founded in 1919 by Jack Cohen as a group of market stalls in Hackney, London. The Tesco name first appeared in 1924, after Cohen purchased a shipment of tea from T. E. Stockwell and combined those three initials with the first two letters of his surname, and the first Tesco shop opened in 1931 in Burnt Oak, Barnet. His business expanded rapidly, and by 1939 he had over 100 Tesco shops across the country. Tesco has expanded globally since the early 1990s, with operations in 11 other countries in the world. The company pulled out of the US in 2013, but as of 2018 continues to see growth elsewhere. Since the 1960s, Tesco has diversified into areas such as the retailing of books, clothing, electronics, furniture, toys, petrol, software, financial services, telecoms and internet services. In the 1990s Tesco repositioned itself from being a downmarket high-volume low-cost retailer, attempting to attract a range of social groups with its low-cost Tesco Value range (launched 1993) and premium Tesco Finest range.",
+            "url": "http://www.tesco.com"
+        },
+        {
+            "id": 7,
+            "title":  "Boots",
+            "searchName":  "boots",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Boots_logo.svg",
+            "shortDescription": "A British health and beauty retailer.",
+            "description": "Boots UK Limited (formerly Boots the Chemists) trading as Boots, is a British health and beauty retailer and pharmacy chain in the United Kingdom and other countries and territories including Ireland, Italy, Norway, the Netherlands, Thailand and Indonesia. The parent company, The Boots Company plc, merged with Alliance UniChem in 2006 to form Alliance Boots. In 2007, Alliance Boots was bought by Kohlberg Kravis Roberts and Stefano Pessina, taking the company private, and moving its headquarters to Switzerland, making it the first-ever FTSE 100 company to be bought by a private equity firm. In 2012, Walgreens bought a 45% stake in Alliance Boots, with the option to buy the rest within three years. It exercised this option in 2014, and as a result Boots became a subsidiary of the new company, Walgreens Boots Alliance, on 31 December 2014.",
+            "url": "http://www.boots.com"
+        },
+        {
+            "id": 8,
+            "title":  "ASDA",
+            "searchName":  "asda",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Asda_logo.svg",
+            "shortDescription": "A British supermarket chain.",
+            "description": "Asda Stores Ltd. (/ˈæzdə/) (often stylised as ASDA) is a British supermarket chain. It is headquartered in Leeds, England. The company was founded in 1949 when the Asquith family merged their retail business with the Associated Dairies company of Yorkshire. It expanded into Southern England during the 1970s and 1980s, and acquired Allied Carpets, 61 large Gateway Supermarkets and other businesses, such as MFI Group. It sold these acquisitions during the 1990s to concentrate on the supermarkets. It was listed on the London Stock Exchange until 1999 when it was acquired by Walmart for £6.7 billion. Asda was the second-largest supermarket chain in the United Kingdom between 2003 and 2014 by market share, at which point it fell into third place. Besides its core supermarkets, the company also offers assistance for insurance and payment services and a mobile phone provider.",
+            "url": "http://www.asda.com"
+        },
+        {
+            "id": 9,
+            "title":  "Lidl",
+            "searchName":  "lidl",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lidl-Logo.svg",
+            "shortDescription": "A German international discount retailer chain.",
+            "description": "Lidl Stiftung & Co. KG (German pronunciation: [ˈliːdl̩]; UK: /ˈlɪdəl/ LID-əl) is a German international discount retailer chain that operates over 12,000 stores across Europe and the United States. Headquartered in Neckarsulm, Baden-Württemberg, the company belongs to the Schwarz Group, which also operates the hypermarket chain Kaufland. Lidl is the chief competitor of a similar German discount chain Aldi in several markets. There are Lidl stores in almost every member state of the European Union. Lidl stores are also present in Switzerland, Serbia, the United Kingdom and the United States.",
+            "url": "http://www.lidl.com"
+        }
+    ]
+}

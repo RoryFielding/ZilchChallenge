@@ -1,0 +1,10 @@
+{
+  "zilch.containers.HomePage.selectARetailer.header": "Wählen Sie einen Händler",
+  "zilch.containers.HomePage.errorLoading.header": "Beim Laden der Daten ist ein Fehler aufgetreten. Bitte überprüfen Sie anhand der Dokumentation in README.md, ob der Json-Server läuft.",
+  "zilch.containers.RetailPage.errorLoading.header": "Beim Laden der Daten ist ein Fehler aufgetreten. Bitte überprüfen Sie anhand der Dokumentation in README.md, ob der Json-Server läuft.",
+  "zilch.containers.NotFoundPage.header": "Seite nicht gefunden.",
+  "zilch.containers.LocaleToggle.en": "en",
+  "zilch.containers.LocaleToggle.de": "de",
+  "zilch.components.Footer.codingChallenge.message": "Zilch Codierungsherausforderung",
+  "zilch.components.Footer.author.message": " Gemacht von {author}"
+}

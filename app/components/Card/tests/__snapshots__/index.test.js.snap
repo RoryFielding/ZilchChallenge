@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> should render a div 1`] = `
+<div
+  class="StyledContainer-o2g2ig-0 heMXCa"
+>
+  <a
+    class="A-sc-1xo0tbf-0 gFLQvi"
+  >
+    <div
+      class="ImageContainer-sc-1vfc20l-0 PchWu"
+    >
+      <img
+        alt="Image unavailable."
+        class="Image-sc-1o2enmt-0 bjVrkj"
+      />
+    </div>
+    <h2
+      class="Title-t8qcw0-0 xUpwn"
+    />
+    <p
+      class="Description-sc-11bj20d-0 uDPoh"
+    />
+  </a>
+</div>
+`;

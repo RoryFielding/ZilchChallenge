@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render a div 1`] = `
+<div>
+  <div
+    class="Container-m5srlb-0 cFebep"
+  >
+    <a
+      href="/"
+    >
+      <img
+        alt="Zilch - Logo"
+        class="Img-sc-7rx7l3-0 jVNLtp"
+        src="IMAGE_MOCK"
+      />
+    </a>
+  </div>
+</div>
+`;

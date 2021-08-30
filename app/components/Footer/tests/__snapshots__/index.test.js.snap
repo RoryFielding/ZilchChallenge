@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render and match the snapshot 1`] = `
+<footer
+  className="Wrapper-sc-1p8ian7-0 esoxRO"
+>
+  <section>
+    <span>
+      Zilch coding challenge
+    </span>
+  </section>
+  <section>
+    <div
+      className="Wrapper-rx5ahf-0 bIbTHC"
+    >
+      <select
+        className="Select-sc-1tfwmlr-0 ibAKfX"
+        onChange={[Function]}
+        value="en"
+      >
+        <option
+          value="en"
+        >
+          en
+        </option>
+        <option
+          value="de"
+        >
+          de
+        </option>
+      </select>
+    </div>
+  </section>
+  <section>
+    <span>
+      
+      Made by 
+      <a
+        className="A-sc-1xo0tbf-0 gFLQvi"
+        href="https://github.com/roryfielding"
+      >
+        Rory Fielding
+      </a>
+      
+    
+    </span>
+  </section>
+</footer>
+`;
