@@ -1,0 +1,70 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@RoryFielding 
+react-boilerplate
+/
+react-boilerplate
+Template
+558
+27.9k5.9k
+Code
+Issues
+51
+Pull requests
+30
+Actions
+Security
+Insights
+react-boilerplate/.travis.yml
+@julienben
+julienben Dependency upgrades and fixes (#2374)
+…
+Latest commit bbbdf24 on 9 Oct 2018
+ History
+ 10 contributors
+@jbinto@julienben@mxstbr@Dattaya@gihrig@samit4me@justingreenberg@jwinn@jstockwin@amilajack
+25 lines (19 sloc)  409 Bytes
+  
+language: node_js
+
+node_js:
+  - 'node'
+  - 'lts/*'
+
+script:
+  - node ./internals/scripts/generate-templates-for-linting
+  - npm test -- --maxWorkers=4
+  - npm run build
+
+before_install:
+  - export CHROME_BIN=chromium-browser
+  - export DISPLAY=:99.0
+  - sh -e /etc/init.d/xvfb start
+
+notifications:
+  email:
+    on_failure: change
+
+after_success: 'npm run coveralls'
+
+cache:
+  directories:
+    - node_modules
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
